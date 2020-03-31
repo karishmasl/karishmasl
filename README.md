@@ -1,2 +1,0 @@
-# karishmasl
-BCSRepo1
